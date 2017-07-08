@@ -11,7 +11,7 @@ header-img: "http://osrqxvr17.bkt.clouddn.com/black.jpg"
 </center>
 
 
-###list：
+### list：
 
 记录 总结
 
