@@ -2,7 +2,7 @@
 layout: page
 title: "Archive"
 description: "博学慎思 明辨笃行"
-header-img: "img/orange.jpg"
+header-img: "http://osrqxvr17.bkt.clouddn.com/black.jpg"
 ---
 
 
