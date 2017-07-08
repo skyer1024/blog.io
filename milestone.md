@@ -2,7 +2,7 @@
 layout: page
 title: "list"
 description: "纸上得来终觉浅 绝知此事要躬行"
-header-img: "img/zhihu.jpg"
+header-img: "http://osrqxvr17.bkt.clouddn.com/black.jpg"
 ---
 
 
