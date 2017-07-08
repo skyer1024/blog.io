@@ -12,13 +12,6 @@ header-img: "img/green.jpg"
 
 
 
-###坚信
-
-
-
-###关注
-
-
 
 
 
@@ -28,12 +21,11 @@ header-img: "img/green.jpg"
 ###联系
 
 
--豆瓣（https://www.douban.com/people/82466250/）
+
+- [豆瓣](https://www.douban.com/people/82466250/)
+- [知乎](https://www.zhihu.com/people/jian-pan-zai-na-li/activities)
 
 
-<center>
-    <p><img src="http://osrqxvr17.bkt.clouddn.com/card.png" align="center"></p>
-</center>
 
 
 
