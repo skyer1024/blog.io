@@ -1,8 +1,8 @@
 # Site settings
 title: 动次打次
-header-img: "img/green.jpg"
+header-img: "img/black.jpg"
 tagline: "cn"  
-description: "skyer|Geek"  
+description: " skyer | Geek"  
 baseurl: ""
 url: "http://skyer1024"  
 
@@ -13,7 +13,7 @@ owner:
   bio: "搬砖"
 
 # Data
-gavatar: http://dreamofbook.qiniudn.com/Az..png
+gavatar: http://osrqxvr17.bkt.clouddn.com/skyer.jpg
 favicon: img/skyer.png
 
 douban_username:  
@@ -44,7 +44,7 @@ defaults:
     values:
       layout: "post"
       author: "skyer"
-      header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
+      header-img: "img/black.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
