@@ -2,19 +2,19 @@
 title: 动次打次
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: "skyer"  
+description: "skyer|Geek"  
 baseurl: ""
-url: "http://cnfeat"  
+url: "http://skyer1024"  
 
 # About/contact
 owner: 
   name: " skyer"
   email: 920158813@qq.com
-  bio: "心态"
+  bio: "搬砖"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
-favicon: img/favicon.png
+favicon: img/skyer.png
 
 douban_username:  
 twitter_username: 
@@ -43,7 +43,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "CnFeat"
+      author: "skyer"
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
