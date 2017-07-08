@@ -1,9 +1,9 @@
 # Site settings
 title: 动次打次
 header-img: "img/black.jpg"
-tagline: "cn"  
+tagline: ""  
 description: " skyer | Geek"  
-baseurl: "http://skyer1024"
+baseurl: ""
 url: "http://skyer1024"  
 
 # About/contact
