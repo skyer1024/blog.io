@@ -2,7 +2,7 @@
 layout: page
 title: "About"
 description: "一流搬砖工，二流空想家 "
-header-img: "img/green.jpg"
+header-img: "http://osrqxvr17.bkt.clouddn.com/black.jpg"
 ---
 
 
