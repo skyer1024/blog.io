@@ -1,16 +1,16 @@
 # Site settings
-title: 读立写生
+title: 动次打次
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: "陈素封|读而立·写而生"  
+description: "skyer"  
 baseurl: ""
 url: "http://cnfeat"  
 
 # About/contact
 owner: 
-  name: " CnFeat"
-  email: CnFeat@gmail.com
-  bio: "写就是写的报酬"
+  name: " skyer"
+  email: 920158813@qq.com
+  bio: "心态"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
