@@ -2,7 +2,7 @@
 layout: page
 title: "Tags"
 description: "索引库"  
-header-img: "img/semantic.jpg"  
+header-img: "http://osrqxvr17.bkt.clouddn.com/black.jpg"  
 ---
 
 
