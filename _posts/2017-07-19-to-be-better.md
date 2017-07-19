@@ -51,8 +51,10 @@ description: 思维的三个层级
 
 7月初，团队有机会一起出游到大草原游玩，也算是繁忙的工作中给自己的一个小假期。想着以后游玩倒不如在一段劳累的工作中来一次小假期。
 
-http://osrqxvr17.bkt.clouddn.com/%E5%9B%A2%E9%98%9F.jpg
 
+<center>
+    <p><img src="http://osrqxvr17.bkt.clouddn.com/%E5%9B%A2%E9%98%9F.jpg" align="center"></p>
+</center>
 
 # 3，侃一侃
 
