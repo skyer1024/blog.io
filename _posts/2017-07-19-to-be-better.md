@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2017  七月
+title: 2017　七月
 date: 2017-7-19
 categories: blog
 tags: [总结,工作]
