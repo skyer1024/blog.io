@@ -20,6 +20,7 @@ header-img: "http://osrqxvr17.bkt.clouddn.com/black.jpg"
 
 > 该框架是为了处理日常的价值判、繁琐的决策以及工作方式。
 >> 如何知行合一
+
 >> 减少无用功
 
 遵循原则：
