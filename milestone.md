@@ -25,7 +25,8 @@ header-img: "http://osrqxvr17.bkt.clouddn.com/black.jpg"
 
 遵循原则：
      基本
-<pre><code>这是一个代码区块。 </code></pre>
+<pre><code>这是一个代码区块。
+     测试</code></pre>
 
 
 
