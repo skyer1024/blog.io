@@ -24,6 +24,7 @@ header-img: "http://osrqxvr17.bkt.clouddn.com/black.jpg"
 >> 减少无用功
 
 遵循原则：
+    基本
 
 
 
