@@ -27,6 +27,7 @@ header-img: "http://osrqxvr17.bkt.clouddn.com/black.jpg"
 
 
 * 1.看待世界
+
 1.1.中数系统——模型的局限性
 1.2.系谱学看待事件与联系
 1.3.机械论与统计论视角
@@ -35,6 +36,7 @@ header-img: "http://osrqxvr17.bkt.clouddn.com/black.jpg"
 
 
 * 2.看待思维
+
 2.1.思维的三个层级 tool-skill-mind
 2.2.思维的谬论
 2.3.语理分析
@@ -42,10 +44,12 @@ header-img: "http://osrqxvr17.bkt.clouddn.com/black.jpg"
     冥想有主题，框架型的思考问题
     
 * 3.他人
+
 3.1 荒谬的世界，我们逃离在手机中
 
 
 * 4.物
+
 4.1 我等采石人当心怀大教堂的愿景，第二天被开除了
 4.2 黑客与画家
 4.5 我们没办法管理时间这个超越事物
@@ -55,6 +59,7 @@ header-img: "http://osrqxvr17.bkt.clouddn.com/black.jpg"
 人们对工具的热情远大于依靠工具所做的事情本身
 
 * 5.写字讨论
+
 5.1 语言是一个人的世界的界限
 5.2 精准表达
 5.3 追求精简文风和表达
