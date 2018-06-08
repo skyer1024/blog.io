@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2018　一月 
+title: 2018　一月 结构主义
 date: 2018-01-01
 categories: blog
 tags: [总结,工作]
