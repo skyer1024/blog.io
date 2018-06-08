@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2017　八月 
+title: 2017　八月 存在主义-命运
 date: 2017-9-1
 categories: blog
 tags: [总结,工作]
