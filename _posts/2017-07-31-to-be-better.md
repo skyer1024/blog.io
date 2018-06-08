@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2017　七月 
+title: 2017　七月 数字化-工业
 date: 2017-7-31
 categories: blog
 tags: [总结,工作]
